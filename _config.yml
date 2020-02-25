@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Kim Sang Eun"
   avatar           : "/img/portrait.jpg " # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "이력서"
-  location         : "Republic of korea"
+  bio              : "게으른 개발자 이력서 :) "
+  location         : "43, Bakseok-ro 33beon-gil, Jungwon-gu, Seongnam-si, Gyeonggi-do, Republic of Korea"
   email            : "sangeun12@naver.com"
   links:
     - label: "Email"
