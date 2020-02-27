@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Resume of LazyD"
+title                    : "Resume of EagerD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kim Sang Eun"
-description              : "LazyD 이력서"
+description              : "EagerD 이력서"
 url                      : "https://sangeun1529.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Kim Sang Eun"
   avatar           : "/img/portrait.jpg " # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "게으른 개발자 이력서 :) "
+  bio              : "열심인 개발자 이력서 :) "
   location         : "43, Bakseok-ro 33beon-gil, Jungwon-gu, Seongnam-si, Gyeonggi-do, Republic of Korea"
   email            : "sangeun12@naver.com"
   links:
