@@ -7,7 +7,7 @@ last_modified_at: 2020-03-02
 Complexity : 좋은 소프트웨어의 기능이란 복잡한 것을 간단하게 보이도록 만드는 것이다 - Grady Booch (UML 개발자)
 ---------------------------------------------------------------
 
-# 회사 
+# 비지니스 프로젝트 
 
 ### epopcon crawling solution(2017-11 ~ )
 * B.I 서비스 SpringBoot 기반 수집 솔루션
