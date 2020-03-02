@@ -50,7 +50,7 @@ language : 세상에는 딱 두 가지의 프로그래밍 언어가 있다. 사�
   
 ### 사용경험있는 기술
   * 백 : node.js , pyThon , rabitMQ , elasticsearch , C , C++ , C#
-  * 프론트 : JS , bootstrap 
+  * 프론트 : JS , bootstrap , md
   * server & OS : zabbix(모니터링툴) , linux , window , ESXi
   * bulid tool : gradle
   * git : github
