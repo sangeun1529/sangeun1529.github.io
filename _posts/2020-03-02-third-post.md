@@ -22,18 +22,18 @@ language : 세상에는 딱 두 가지의 프로그래밍 언어가 있다. 사�
 
 ### JPA
 
-  * 연관관계 형성
+  * 연관관계
   * 상용레벨 코딩
-  * DDL 까지 생각한 꼼꼼한 설계
-  * 사용 서비스 프로젝트 mybatis -> jpa 변환경험
+  * 비지니스에 맞춘 entity 설계
+  * 서비스 프로젝트 mybatis -> jpa 변환경험
   
-### RDBMS ( mysql-mariaDB)
+### RDBMS ( mysql-mariaDB )
 
   * 회사요구사항에 맞는 ERD 작성경험
   * 대용량 데이터 관리경험
   * 설치 및 운영
   
-### MONGODB (nosql)
+### NOSQL (MONGODB)
 
   * 대용량 트래픽 경험
   * boot stater - mongoDB 를 통한 이관 app 개발
@@ -42,10 +42,18 @@ language : 세상에는 딱 두 가지의 프로그래밍 언어가 있다. 사�
 ### cloud (aws , toast , ncloud24 등..)
   * 회사 내 전체 서버 운용 관리 책임자 경험
   
+### bulid tool (nexus , maven )
+
+### IDE (STS , intelliJ )
+
+### git (atlassian-bitbucket , Sourcetree )
+  
 ### 사용경험있는 기술
-  * 백 : node.js , pyThon , rabitMQ , elasticsearch
+  * 백 : node.js , pyThon , rabitMQ , elasticsearch , C , C++ , C#
   * 프론트 : JS , bootstrap 
   * server & OS : zabbix(모니터링툴) , linux , window , ESXi
+  * bulid tool : gradle
+  * git : github
   
 ### 관심사
-  * MSA , MQ , TDD , 애자일
+  * MSA , MQ , TDD , 애자일 , REST 설계
