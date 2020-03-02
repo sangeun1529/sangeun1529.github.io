@@ -1,18 +1,21 @@
 ---
 title: "EagerD 경력 기술서"
-
 categories: 
   - 경력
 last_modified_at: 2020-03-02
 ---
-devOps - you run it, you build it - 베르너 보겔스 (아마존 CTO)
+devOps : you run it, you build it - 베르너 보겔스 (아마존 CTO)
 ---------------------------------------------------------------
 
 
+### 이팝콘 (2017.11 ~ )
 
-# 이팝콘
+직책/직위 : 팀장 / 선임
 
 - 회사 자체 솔루션(wspider) 운영 , 고도화진행
+  * springboot 버전 2.x 로 상승 ( hikari , jpa-ceretestemp 등 사용)
+  * 수집 moniter 할 수 있는 알고리즘 개발
+  * 전체 수집 서비스 추상화 개발 고도화
 - 데이터 수집 솔루션 프로젝트 개발(신규)
   * 마스터화를 위한 수집 프로그램 개발
   * JPA 도입
@@ -30,7 +33,9 @@ devOps - you run it, you build it - 베르너 보겔스 (아마존 CTO)
 - 클라우드 운영 , 구축
   * aws ,toast , ncloud24 , ncloud , 알리바바 등 각종 클라우드 운영 구축
 
-# 지메이트 시스템즈
+### 지메이트 시스템즈 (2016.05 ~ 2017.08)
+
+직책/직위 : 팀원 / 주임
 
 - IDC근무
   * 서버관리 및 장애대응
