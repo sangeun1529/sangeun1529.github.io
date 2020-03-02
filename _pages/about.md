@@ -7,7 +7,7 @@ permalink: /about/
 
 --------
 
-![!](https://github.com/sangeun1529/sangeun1529.github.io/blob/master/img/portrait.jpg)
+![](https://github.com/sangeun1529/sangeun1529.github.io/blob/master/img/portrait.jpg)
 
 ###### 이름 : 김상은
 
