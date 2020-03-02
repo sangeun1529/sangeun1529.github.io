@@ -4,7 +4,7 @@ categories:
   - 경력
 last_modified_at: 2020-03-02
 ---
-language : 세상에는 딱 두 가지의 프로그래밍 언어가 있다. 사람들이 욕하는 언어와 아무도 사용하지 않는 언어. - Bjarne Stroustrup (C++ 창시자)
+> language : 세상에는 딱 두 가지의 프로그래밍 언어가 있다. 사람들이 욕하는 언어와 아무도 사용하지 않는 언어. - Bjarne Stroustrup (C++ 창시자)
 -----------------------------------
 
 ### Java
