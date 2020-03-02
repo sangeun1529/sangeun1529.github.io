@@ -18,7 +18,7 @@ Complexity : 좋은 소프트웨어의 기능이란 복잡한 것을 간단하�
 
 # 개인 프로젝트
 
-### [EagerD core Project (2020-02~ )]("https://github.com/sangeun1529/EagerD")
+### [EagerD core Project (2020-02~ )](https://github.com/sangeun1529/EagerD)
 
-### [EagerD Utills project ( -- )]("https://github.com/sangeun1529/EDUtills")
+### [EagerD Utills project ( -- )](https://github.com/sangeun1529/EDUtills)
 
