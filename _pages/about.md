@@ -8,7 +8,7 @@ last_modified_at: 2020-03-03
 
 --------
 
-![사진](./img/portrait.jpg)
+![iamge](../img/portrait.jpg)
 
 ###### 이름 : 김상은
 
