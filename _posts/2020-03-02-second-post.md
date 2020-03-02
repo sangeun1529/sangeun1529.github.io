@@ -1,7 +1,7 @@
 ---
-title: 나란 놈이란..
+title: 자기소개서
 category:
-  - 자기소개서
+  - 경력
 last_modified_at: 2020-03-02
 ---
 code : 훌륭한 코드는 훌륭한 문서보다 낫다 - Steve McConnell (개발자)
