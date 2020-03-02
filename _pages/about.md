@@ -1,5 +1,5 @@
 ---
-title: "EagerD about"
+title: "about me"
 permalink: /about/
 layout: single
 last_modified_at: 2020-03-02
