@@ -2,6 +2,8 @@
 title: "EagerD about"
 permalink: /about/
 layout: single
+last_modified_at: 2020-03-02
+---
 ---
 
 ### EagerD( 이거디~ || 열정적개발자 ) 의 삶.
