@@ -35,23 +35,9 @@ TDD 기반 소프트웨어 설계를 지향하고, MS 아키텍쳐에 관심있�
 
 ### 업무중 기억에 남는 코드
 
-for (Future<Item> f : resultList) {
-					if (f != null) {
-						Item item = null;
-						try {
-							TimeUnit unit =(slowItemAlreadyYn) ? TimeUnit.MILLISECONDS :TimeUnit.SECONDS;
-							item = f.get(CoupangCV.DETAIL_TIME_OUT, unit);
-						} catch (TimeoutException e1) {
-							slowItemHandler.push(this, f);
-							slowItemAlreadyYn = true;
-							logger.error(getClass().getSimpleName(), "TimeoutException", f.toString());
-						} catch (InterruptedException | ExecutionException e2) {
-							logger.error(getClass().getSimpleName(), "Getting Future Item is failed", e2);
-						}
-					}
-				}
+![iamge](../img/code.JPG)
 
-위 코드는 회사 비지니스 로직 중 한부분입니다.
+위 코드는 비지니스 로직 중 한부분입니다.
 
 해당 코드는 callable 블락 비동기 형태의 코드로 수집업무 진행하던 중..
 
