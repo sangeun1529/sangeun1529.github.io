@@ -37,12 +37,6 @@ TDD 기반 소프트웨어 설계를 지향하고, MS 아키텍쳐에 관심있�
 
 ![22](../img/code.JPG)
 
-![33](https://github.com/sangeun1529/sangeun1529.github.io/blob/master/img/code2.JPG)
-
- ![33](../img/code2.JPG)
-
-
-
 위 코드는 비지니스 로직 중 한부분입니다.
 
 해당 코드는 callable 블락 비동기 형태의 코드로 수집업무 진행하던 중..
