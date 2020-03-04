@@ -37,7 +37,7 @@ TDD 기반 소프트웨어 설계를 지향하고, MS 아키텍쳐에 관심있�
 
 ![22](../img/code.JPG)
 
-![33]("https://github.com/sangeun1529/sangeun1529.github.io/blob/master/img/code.JPG")
+![33](https://github.com/sangeun1529/sangeun1529.github.io/blob/master/img/code.JPG)
 
 
 
