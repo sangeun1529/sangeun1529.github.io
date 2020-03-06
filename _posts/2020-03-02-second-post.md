@@ -36,7 +36,7 @@ TDD 기반 소프트웨어 설계를 지향하고, MS 아키텍쳐에 관심있�
 ### 업무중 기억에 남는 코드
 
 ![code](../img/recode.JPG)
-![code](../img/recode.jpg)
+![img](../img/recode.jpg)
 
 
 위 코드는 비지니스 로직 중 한부분입니다.
