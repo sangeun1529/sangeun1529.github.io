@@ -35,7 +35,29 @@ TDD 기반 소프트웨어 설계를 지향하고, MS 아키텍쳐에 관심있�
 
 ### 업무중 기억에 남는 코드
 
-![code](../img/code.png)
+```
+if (resultList.size() >= detailChunkSize || (itemUrlSize == seq.get()) || debug) {
+				for (Future<Item> f : resultList) {
+					if (f != null) {
+						Item item = null;
+						try {
+							TimeUnit unit =(slowItemAlreadyYn) ? TimeUnit.MILLISECONDS :TimeUnit.SECONDS;
+							item = f.get(CoupangCV.DETAIL_TIME_OUT, unit);
+						} catch (TimeoutException e1) {
+							slowItemHandler.push(this, f);
+							slowItemAlreadyYn = true;
+							logger.error(getClass().getSimpleName(), "TimeoutException", f.toString());
+						} catch (InterruptedException | ExecutionException e2) {
+							logger.error(getClass().getSimpleName(), "Getting Future Item is failed", e2);
+						}
+						if (item != null) {
+							itemList.add(item);
+						}
+					}
+				}
+				resultList.clear();
+			}
+```
 
 위 코드는 비지니스 로직 중 한부분입니다.
 
