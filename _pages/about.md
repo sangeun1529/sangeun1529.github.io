@@ -10,6 +10,8 @@ last_modified_at: 2020-03-03
 
 ![iamge](../img/portrait.jpg)
 
+![iamge](../img/code.png)
+
 ###### 이름 : 김상은
 
 ###### 나이 : 30 (만 28살)
