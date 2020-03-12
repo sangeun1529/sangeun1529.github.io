@@ -98,7 +98,7 @@ author:
   name             : "Kim Sang Eun"
   # avatar           : "/img/portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   avatar           : "/img/IDphoto.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "열심인 개발자 이력서 :) "
+  bio              : " " 내 코드가 부끄럽지 않게 " 항상 배우고 노력하는 사람이 되고싶습니다."
   location         : "Seongnam-si, Gyeonggi-do, Korea"
   email            : "sangeun12@naver.com"
   links:
