@@ -12,10 +12,24 @@ last_modified_at: 2020-03-02
 ### epopcon crawling solution(2017-11 ~ )
 * B.I 서비스 SpringBoot 기반 수집 솔루션
   - 솔루션 프로세스 총괄 CTO
-  - JPA , 롬복 , 아파치http , reactproject 등... 다양한 라이브러리를 활용해 서비스 개발된 프로젝트
+  - 롬복 , 아파치http , reactproject 등... 다양한 라이브러리를 활용해 서비스 개발된 프로젝트
   - 운영을 위한 모니터링 시스템 구축
-  - java/spring 환경에서 chunk 단위 비동기 통신 수집 시스템 개발
+  - java/spring 환경에서 chunk 단위 블록/비동기 통신 수집 시스템 개발
   
+  
+### mongoDB migration (2019-06 ~ 07)
+* B.I 서비스 SpringBoot 기반 몽고DB 이관 솔루션
+  - 솔루션 프로세스 총괄 CTO
+  - springboot2.x + mongoDB staterAPI 를 활용하여 개발
+  - 프로젝트 스트럭쳐 모듈 체계화 
+  
+  
+### target crawling solution (2018-06 ~ )
+* B.I 서비스 SpringBoot 기반 몽고DB 이관 솔루션
+  - 혼자 진행한 프로젝트
+  - 기존 crawling solution 확장
+  - springboot2 + JPA 를 활용하여 개발
+  - 'danawa' 사이트 master data crawling 
 
 -----------------------------------------------------
 
