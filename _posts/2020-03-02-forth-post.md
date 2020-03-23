@@ -15,6 +15,8 @@ last_modified_at: 2020-03-02
   - 롬복 , 아파치http , reactproject 등... 다양한 라이브러리를 활용해 서비스 개발된 프로젝트
   - 운영을 위한 모니터링 시스템 구축
   - java/spring 환경에서 chunk 단위 블록/비동기 통신 수집 시스템 개발
+  - squid , luminati 등 proxy 서비스를 활용한 분산 트래픽 모듈 개발
+  - selenium 도입
   
   
 ### mongoDB migration (2019-06 ~ 07)
@@ -25,11 +27,18 @@ last_modified_at: 2020-03-02
   
   
 ### target crawling solution (2018-06 ~ )
-* B.I 서비스 SpringBoot 기반 몽고DB 이관 솔루션
+* B.I 서비스 SpringBoot2,JPA 기반 수집 솔루션
   - 혼자 진행한 프로젝트
   - 기존 crawling solution 확장
   - springboot2 + JPA 를 활용하여 개발
   - 'danawa' 사이트 master data crawling 
+  
+### python telegram bot 수집량 체킹 시스템 (2018-10 ~ )
+* 수집량 실시간 체킹 시스템
+  - 파이썬과 텔레그램을 연결하여 실시간 데이터 수집량 체크
+  
+### python simple crawler (2019-01 ~ )
+* 파이썬 beautifulsoup을 활용한 somple 수집 시스템
 
 -----------------------------------------------------
 
