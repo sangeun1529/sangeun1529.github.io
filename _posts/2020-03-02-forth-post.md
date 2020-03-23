@@ -16,6 +16,7 @@ last_modified_at: 2020-03-02
   - 운영을 위한 모니터링 시스템 구축
   - java/spring 환경에서 chunk 단위 블록/비동기 통신 수집 시스템 개발
   - squid , luminati 등 proxy 서비스를 활용한 분산 트래픽 모듈 개발
+  - commend 패턴을 활용한 smartcrawler 개발
   - selenium 도입
   
   
