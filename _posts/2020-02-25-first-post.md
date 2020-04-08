@@ -34,10 +34,12 @@ last_modified_at: 2020-03-02
   * aws ,toast , ncloud24 , ncloud , 알리바바 등 각종 클라우드 운영 구축
 - git-flow 전략 체계화
   * 한 브랜치(develop)에서만 작업하던 기존 git 전략에서 git-flow , fullrequest 로 전환
-- docker , jenkins 부분도입
-  * 현재 진행중...
+- jenkins 도입
+  * 현재 진행중... (2020-04-01 ~)
   * git전략 체계화에 따른 CI 툴 적용
-
+- docker , kubernetes 도입검토
+  * 현재 진행중... (2020-04-01 ~)
+  
 ### 지메이트 시스템즈 (2016.05 ~ 2017.08)
 
 직책/직위 : 팀원 / 주임
