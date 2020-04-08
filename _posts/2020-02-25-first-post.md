@@ -32,11 +32,11 @@ last_modified_at: 2020-03-02
   * 회사내 전체 repository 관리
 - 클라우드 운영 , 구축
   * aws ,toast , ncloud24 , ncloud , 알리바바 등 각종 클라우드 운영 구축
-- git 브랜치전략 도입
-  * 한 브랜치에만 푸쉬하던 기존 git 전략을 체계화된 브랜치전략 도입
+- git-flow 전략 체계화
+  * 한 브랜치(develop)에서만 작업하던 기존 git 전략에서 git-flow , fullrequest 로 전환
 - docker , jenkins 부분도입
-  * devOps 가 미흡한 부분을 지적
-  * docker , jenkins 부분 도입
+  * 현재 진행중...
+  * git전략 체계화에 따른 CI 툴 적용
 
 ### 지메이트 시스템즈 (2016.05 ~ 2017.08)
 
