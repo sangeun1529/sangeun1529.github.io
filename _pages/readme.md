@@ -1,5 +1,5 @@
 ---
-title: Read me (click)
+title: ".. About Me .."
 permalink: /about/
 last_modified_at: 2020-04-12
 ---
