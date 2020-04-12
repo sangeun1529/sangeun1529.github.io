@@ -1,5 +1,5 @@
 ---
-title: "- Read me (click) -"
+title: - Read me (click) -
 permalink: /about/
 last_modified_at: 2020-03-03
 ---
