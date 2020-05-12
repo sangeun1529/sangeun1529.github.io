@@ -39,17 +39,13 @@ last_modified_at: 2020-03-02
   - 파이썬과 텔레그램을 연결하여 실시간 데이터 수집량 체크
   
 ### python simple crawler (2019-01 ~ )
-* 파이썬 beautifulsoup을 활용한 somple 수집 시스템
+* 파이썬 beautifulsoup을 활용한 simple 수집 시스템
 
 -----------------------------------------------------
 
 # 개인 프로젝트
 
-### [EagerD core Project (2020-02~ )](https://github.com/sangeun1529/EagerD)
-
-### [EagerD Utills project ( -- )](https://github.com/sangeun1529/EDUtills)
-
-### [EagerD student project ( 학생 프로젝트 )](https://github.com/sangeun1529/sangeun1529.github.io/blob/master/assets/ppt/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pptx?raw=true)
+### [EagerD student project ( 대학생시절 졸업 프로젝트 )](https://github.com/sangeun1529/sangeun1529.github.io/blob/master/assets/ppt/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pptx?raw=true)
 
 ### [EagerD feedmenu ( d.code site FEED 메뉴 REST_API )](https://github.com/sangeun1529/feed)
 
