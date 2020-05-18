@@ -15,12 +15,12 @@ last_modified_at: 2020-03-02
 - 회사 자체 솔루션(wspider) 운영 , 고도화진행
   * springboot 버전 2.x 로 상승 ( hikari , jpa-ceretestemp 등 사용)
   * 수집 moniter 할 수 있는 알고리즘 개발
+  * projectreactor 를 사용한 논블록킹 비동기 수집 프로그램 개발
   * 전체 수집 서비스 추상화 개발 고도화
   
 - 데이터 수집 솔루션 프로젝트 개발(신규)
   * 마스터화를 위한 수집 프로그램 개발
-  * JPA 도입
-  * lombok 도입
+  * JPA ,lombok 등 도입
   
 - mongoDB 개발
   * RDBMS 의 성능문제로인해 mongoDB 도입 , 개발
@@ -43,11 +43,12 @@ last_modified_at: 2020-03-02
   * 한 브랜치(develop)에서만 작업하던 기존 git 전략에서 git-flow , fullrequest 로 전환
   
 - jenkins 도입
-  * 현재 진행중... (2020-04-01 ~)
-  * git전략 체계화에 따른 CI 툴 적용
+  * git-flow 전략
+  * 온프레미스 NAS 아카이브를 통한 CI 설계
   
-- docker , kubernetes 도입검토
-  * 현재 진행중... (2020-04-01 ~)
+- docker , kubernetes
+  * 개발환경에 적용 
+  * 현재 개발중..
   
 ### 지메이트 시스템즈 (2016.05 ~ 2017.08)
 
